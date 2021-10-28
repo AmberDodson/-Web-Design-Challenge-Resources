@@ -1,1 +1,1 @@
-# Web-Design-Challenge-Resources
+# Web-Design-Challenge
